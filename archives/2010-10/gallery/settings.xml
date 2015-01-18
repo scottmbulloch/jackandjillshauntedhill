@@ -1,0 +1,81 @@
+﻿<settings>
+  <General_Properties>
+    <width value="935"/>
+    <height value="593"/>
+    <assets value="gallery/images.xml"/>
+    <preloader value="preloaders/redsquares.swf"/>
+    <showAbout value="true"/>
+    <closeButton value=""/>
+  </General_Properties>
+  <Background_Properties>
+    <backgroundImage value=""/>
+    <fillType value="solid"/>
+    <backgroundColor1 value="0x000000"/>
+    <backgroundColor2 value="0x000000"/>
+    <backgroundAlpha value="0"/>
+    <bgCornerRadius value="0"/>
+    <gradientRotation value="0"/>
+    <gradientRatio value="0"/>
+    <gradientPosX value="0"/>
+    <gradientPosY value="0"/>
+  </Background_Properties>
+  <Item_Properties>
+    <friction value="1"/>
+    <spacing value="0"/>
+    <maximize value="true"/>
+    <bgColor1 value="0xaaaaaa"/>
+    <bgColor2 value="0x000000"/>
+    <bgAlpha1 value="1"/>
+    <bgAlpha2 value="1"/>
+    <bgCornerRadius1 value="2"/>
+    <bgCornerRadius2 value="0"/>
+    <bg1PaddingH value="2"/>
+    <bg1PaddingTop value="2"/>
+    <bg1PaddingBottom value="0"/>
+    <bg2PaddingH value="0"/>
+    <bg2PaddingV value="0"/>
+    <textDistance value="0"/>
+    <rotationOffset value="30"/>
+    <positioning value="random"/>
+    <expandScale value="2.5"/>
+  </Item_Properties>
+  <Image_Properties>
+    <width value="200"/>
+    <height value="200"/>
+    <cornerRadius value="20"/>
+  </Image_Properties>
+  <Text_Properties>
+    <styleSheet value="textstyle.css"/>
+    <bodyDistance value="0"/>
+    <width value="0"/>
+    <headBgColor value="26265"/>
+    <bodyBgColor value="0"/>
+    <bgAlpha value="0"/>
+    <borderColor value="0xaaaaaa"/>
+    <borderAlpha value="0"/>
+    <borderWidth value="0"/>
+    <cornerRadius value="0"/>
+    <paddingLeft value="0"/>
+    <paddingRight value="0"/>
+    <paddingTop value="0"/>
+    <paddingBottom value="0"/>
+  </Text_Properties>
+  <Filter_Properties>
+    <useDropShadow value="true"/>
+    <distance value="10"/>
+    <angle value="0"/>
+    <color value="0x000000"/>
+    <alpha value="1"/>
+    <blurAmount value="10"/>
+    <quality value="1"/>
+    <strength value="1"/>
+  </Filter_Properties>
+  <Shade_Properties>
+    <useShade value="false"/>
+    <shadeColor value="0x000000"/>
+    <shadeAlpha value="0"/>
+    <shadeRatio value="0"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Shade_Properties>
+</settings>

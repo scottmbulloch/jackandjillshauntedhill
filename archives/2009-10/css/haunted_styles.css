@@ -1,0 +1,128 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+	font: bold 18px Verdana,Arial,Helvetica,sans-serif;
+}
+a, a:visited {
+	color: #ff7700;
+	text-decoration: none;
+}
+a:active, a:hover {
+	text-decoration: underline;
+}
+img {
+	border: none;
+}
+img.center {
+	display: block;
+	margin: 0 auto;
+}
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	color: #660000;
+	text-align: center;
+}
+h1 {
+	font-size: 96px;
+}
+h2 { 
+	font-size: 72px;
+}
+h3 {
+	font-size: 48px;
+}
+code {
+	padding: 5px 8px;
+	margin: 0 auto;
+	color: #000000;
+	font: normal 12px monospace;
+	background-color: #550000;
+	display: block;
+}
+#logo {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 333px;
+	background: #000 url(../img/header.jpg) no-repeat top center;
+}
+#house {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 736px;
+	background: #000 url(../img/house.jpg) no-repeat top center;
+}
+#info {
+	margin: 0 auto;
+	padding: 0;
+	width: 80%;
+	color: #990000;
+	font-size: 24px;
+}
+#audio p {
+	margin: 0;
+	padding: 0 0 20px 0;
+}
+#player {
+	margin: 0;
+	padding: 0;
+}
+#foot {
+	margin: 0 auto;
+	padding: 0;
+	width: 80%;
+	text-align: center;
+	font-size: 14px;
+	color: #990000;
+}
+#foot a {
+	text-decoration: none;
+	color: #990000;
+}
+.half {
+	margin: 0;
+	padding: 0;
+	width: 50%;
+}
+.content {
+	margin: 10px;
+	padding: 10px;
+	font-size: 18px;
+	color: #990000;
+	border: 2px solid #660000;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+td {
+	border: 1px solid #550000;
+	font-size: 14px;
+	vertical-align: top;
+}
+th {
+	text-align: center;
+}
+th.month {
+	font-size: 18px;
+	color: #000000;
+	background-color: #770000;
+}
+th.day {
+	width: 14%;
+	font-size: 16px;
+	color: #000000;
+	background-color: #550000;
+}
+.note {
+	text-align: right;
+	color: #ff3300;
+}

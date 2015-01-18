@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 2.8.2.4
+- http://www.phpmyadmin.net
+-
+- Host: localhost:3306
+- Generation Time: Oct 19, 2010 at 02:13 AM
+- Server version: 5.0.32
+- PHP Version: 5.2.6
+-->
+
+<!--
+- Database: `shoutbox`
+-->
+<shoutbox>
+  <!-- Table Shoutbox -->
+    <Shoutbox>
+        <ID>1</ID>
+        <Timestamp>20100911034931</Timestamp>
+        <Name>Christopher</Name>
+        <EMail></EMail>
+        <Text>Hi I was wondering if you I could work at the Jack and Jills Haunted house</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>2</ID>
+        <Timestamp>20100911211005</Timestamp>
+        <Name>Jack and Jill</Name>
+        <EMail>JackandJillsHauntedHill@Gmail.com</EMail>
+        <Text>Hi Christopher, thanks for your intrest in joining our group.  We have already put this years cast together but we hope your still able to come check us out!!!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>3</ID>
+        <Timestamp>20100914202007</Timestamp>
+        <Name>Emily</Name>
+        <EMail>emilucee@aol.com</EMail>
+        <Text>Hey, please let me know if you decide you need more actors!  I can work any hours!!!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>4</ID>
+        <Timestamp>20100921030849</Timestamp>
+        <Name>Kristen</Name>
+        <EMail>zanzaboonda@gmail.com</EMail>
+        <Text>Hi there!  If anything happens I'd also be interested in working with you.  :)</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>5</ID>
+        <Timestamp>20100922050429</Timestamp>
+        <Name>Danielle Clostermery</Name>
+        <EMail>lightoflove81@yahoo.com</EMail>
+        <Text>do you have any openings available to work for you this go round?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>6</ID>
+        <Timestamp>20100923200611</Timestamp>
+        <Name>CindyB</Name>
+        <EMail>ca.berg@att.net</EMail>
+        <Text>Also willing to work any hours can be open every Fri/Sat/Sun in October</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>7</ID>
+        <Timestamp>20100927011949</Timestamp>
+        <Name>Angela</Name>
+        <EMail>sobrgrl@ymail.com</EMail>
+        <Text>I am very interested in joining this years cast! Please let me know if you need anyone!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>8</ID>
+        <Timestamp>20100927025944</Timestamp>
+        <Name>Cory Hale</Name>
+        <EMail>cory@bmplighting.com</EMail>
+        <Text>Hi, I can provide lighting effects and a professional atmosphere hazer at highly competitive rental rates. I usually do concerts, but I am interested in working with you. bmplighting.com</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>9</ID>
+        <Timestamp>20100927035230</Timestamp>
+        <Name>Robert Gresh</Name>
+        <EMail>greshrobbie@yahoo.com</EMail>
+        <Text>i went to your haunted house last year and i was wondering if i could be an actor this year</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>10</ID>
+        <Timestamp>20100927165004</Timestamp>
+        <Name>Jack and Jill</Name>
+        <EMail>JackandJillsHauntedHill@Gmail.com</EMail>
+        <Text>Thank each and and every one of you who have commented or sent in emails asking about being an actor in this years Haunted House.  We already have our cast but if we need additional people we will let you know!  Once again...thank you and we hope to see you real soon up the Haunted Hill!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>11</ID>
+        <Timestamp>20100929030021</Timestamp>
+        <Name>Ravyn</Name>
+        <EMail>vampire123456778@aol.com</EMail>
+        <Text>I may be missing the links, but where to we find the times and prices?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>12</ID>
+        <Timestamp>20100930033305</Timestamp>
+        <Name>DesertSnowShavedIce</Name>
+        <EMail>desertsnowshavedice@hotmail.com</EMail>
+        <Text>Are you still looking for a shaved ice vendor?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>13</ID>
+        <Timestamp>20101005003952</Timestamp>
+        <Name>mike</Name>
+        <EMail>c.diaz@yahoo.com</EMail>
+        <Text>im scawed</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>14</ID>
+        <Timestamp>20101007221536</Timestamp>
+        <Name>Marilyn Avendano</Name>
+        <EMail>marilyn1avendano@yahoo.com</EMail>
+        <Text>Hi, what is the prices and the time that is open because me and my boyfriend wanna a go check it out. It looks like is really fun but he works so we need to know when you guys are open. Thank you. :-)) </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>15</ID>
+        <Timestamp>20101009105000</Timestamp>
+        <Name>trent</Name>
+        <EMail>trent Hicks@hotmail.com</EMail>
+        <Text>look what's in the slope... :-/ </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>16</ID>
+        <Timestamp>20101011204228</Timestamp>
+        <Name>D-Unit</Name>
+        <EMail>kustum626@hotmail.com</EMail>
+        <Text>Heard threw the great vine you'll be all new this year, with some new crazy effects? Sounds AWESOME!!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>17</ID>
+        <Timestamp>20101011213510</Timestamp>
+        <Name>Jack</Name>
+        <EMail>JackandJillsHauntedHill@Gmail.com</EMail>
+        <Text>All new EVERYTHING!!!! </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>18</ID>
+        <Timestamp>20101013175618</Timestamp>
+        <Name>Lori D.</Name>
+        <EMail>L1218@cox.net</EMail>
+        <Text>Is it suitable for 8yr. olds??</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>19</ID>
+        <Timestamp>20101013183706</Timestamp>
+        <Name>Jack</Name>
+        <EMail>JackandJillsHauntedHill@gmail.com</EMail>
+        <Text>We say brave 7 year olds and older...we have givin this years haunt a PG-13 rating.  It is very scary!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>20</ID>
+        <Timestamp>20101013213704</Timestamp>
+        <Name>Ryane</Name>
+        <EMail>ieffin.loveyou@yahoo.com</EMail>
+        <Text>About how long does it take to go through the haunted house?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>21</ID>
+        <Timestamp>20101014005154</Timestamp>
+        <Name>Kait</Name>
+        <EMail></EMail>
+        <Text>A five dollar donation as the price doesn't seem like it'd fund a very good haunted house. Have any of you visited this haunt along with competitors like Fear Farm and Arizona Scream Park who could let us know how it is? Thank yah.</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>22</ID>
+        <Timestamp>20101014025620</Timestamp>
+        <Name>Jack</Name>
+        <EMail>JackandJillsHauntedHill@Gmail.com</EMail>
+        <Text>if your looking to walk around a dirt field with a scare here n there and pay 25 bucks for it by all means fear farm and the nest are great!!  We actually are going to all of them on fri night.....if you want to pay 5 bucks for ten to 15 min of non stop scares before we open our larger scale haunted house then this is a must see!!!  for 5 bucks you'll go twice....and thats what were hoping for!!!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>23</ID>
+        <Timestamp>20101015025109</Timestamp>
+        <Name>Amanda</Name>
+        <EMail>benderrae@yahoo.com</EMail>
+        <Text>My husband and I went last year and thought that (for the price) it may not be that great.  We were WRONG!  They put on a great show and I was literally screaming - or swearing - the entire time.  It's just long enough for you to have fun, get scared but not so long that you really start to want out.   Another cool part, real actors.  Looking forward to this year.</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>24</ID>
+        <Timestamp>20101015160134</Timestamp>
+        <Name>sarah</Name>
+        <EMail>xsweetex@hotmail.com</EMail>
+        <Text>I took my 10 and 5 year old kids last year it was the best haunted house ive ever been to. My daughter 10 was screaming and crying the whole time but the 5 year old boy loved it. It was actually pretty scary and realistic thats the best part. Dont miss this </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>25</ID>
+        <Timestamp>20101015181524</Timestamp>
+        <Name>Mark Broder</Name>
+        <EMail>markbroder@gmail.com</EMail>
+        <Text>Is it OK if my wife and I bring our 5 year old son, or is the 7 year age limit highly recommended?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>26</ID>
+        <Timestamp>20101015200917</Timestamp>
+        <Name>Ryane</Name>
+        <EMail>ieffin.loveyou@yahoo.com</EMail>
+        <Text>Is there usalyy a huge line to get in?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>27</ID>
+        <Timestamp>20101015202432</Timestamp>
+        <Name>Star</Name>
+        <EMail>shiningstarlewis@ymail.com</EMail>
+        <Text>Is this worth it? Scream park was tight!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>28</ID>
+        <Timestamp>20101015231047</Timestamp>
+        <Name>Chris R.</Name>
+        <EMail>cramondetta@cox.net</EMail>
+        <Text>Was lost in Sunny Slope last year after a halloween party, saw the signs outside of this place and stopped in.  WOW!!!!  Well worth the $5 and would of payed more.  Highly recomended for anyone who wants to be scared sh!tless</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>29</ID>
+        <Timestamp>20101016023708</Timestamp>
+        <Name>Rich</Name>
+        <EMail>richa5my@aol.com</EMail>
+        <Text>I am so excited to go this Sunday =) :-)) </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>30</ID>
+        <Timestamp>20101016025825</Timestamp>
+        <Name>Jack and Jill</Name>
+        <EMail>JackandJillsHauntedHill@Gmail.com</EMail>
+        <Text>We have had plenty of 5 year old kids come through....just depends on the kid!!  Some 5 year olds make it through while other thirty year olds pissed themselves!!!!!   ;)</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>31</ID>
+        <Timestamp>20101016141511</Timestamp>
+        <Name>norma</Name>
+        <EMail>normaofer@yahoo.com</EMail>
+        <Text>what are the age limits? what if there is a parent to accompany? are there long lines</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>32</ID>
+        <Timestamp>20101016190608</Timestamp>
+        <Name>Bre-Z</Name>
+        <EMail>nativegirl12345@yahoo.com</EMail>
+        <Text>dis looks like a scary place man...its like AHHHH!!! }XD</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>33</ID>
+        <Timestamp>20101016200157</Timestamp>
+        <Name>Tayler</Name>
+        <EMail>wawa.bambi.tayler@gmail.com</EMail>
+        <Text>hi,i am 11 and a scardy cat would i be to scard to go throw the haunted hill?!?! :blush:</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>34</ID>
+        <Timestamp>20101016203524</Timestamp>
+        <Name>BJ</Name>
+        <EMail></EMail>
+        <Text>If you want to be scared out of your mind, if you want the thrill of your life...go to the HILL.....it is freaken scarry.......went last year, can't wait to go this year....anyone in? :-)) </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>35</ID>
+        <Timestamp>20101016203714</Timestamp>
+        <Name>Ann</Name>
+        <EMail></EMail>
+        <Text>OMG BJ, is that you......I'm going, wouldn't miss this one....it's way to cheap to get it and it's worth a lot more.....SHHHHHH, don't tell them they might change the price....</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>36</ID>
+        <Timestamp>20101016203814</Timestamp>
+        <Name>BJ</Name>
+        <EMail></EMail>
+        <Text>Ann, they open tonight.........let's go</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>37</ID>
+        <Timestamp>20101016231429</Timestamp>
+        <Name>Dan the Man</Name>
+        <EMail>bobie_10@yahoo.com</EMail>
+        <Text>hey, i was wandering how dark it is and if you have any kind of lights like strobe lights in it or anything else. Also, is as scary as The nest or the golf land fright nights? Thanks</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>38</ID>
+        <Timestamp>20101017002006</Timestamp>
+        <Name>Ambar</Name>
+        <EMail></EMail>
+        <Text>how long does it take 2 go through the whole thing :question: </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>39</ID>
+        <Timestamp>20101017005303</Timestamp>
+        <Name>selina</Name>
+        <EMail>twinkeydelcI@yahoo.com</EMail>
+        <Text>well is it scary cause i like sacry but not like people chseing you.. iam just woundring cause like i went to the haunt and pople cahses you :-/ </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>43</ID>
+        <Timestamp>20101017085935</Timestamp>
+        <Name>Kyle</Name>
+        <EMail>ktm2806@yahoo.com</EMail>
+        <Text>If your brave enough to go YOUR in FOR  a TREAT! :evil: </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>44</ID>
+        <Timestamp>20101017172921</Timestamp>
+        <Name>Neighbor</Name>
+        <EMail></EMail>
+        <Text>Please be sure to make sure the events are over at 10pm, and the people are gone.This is still a neighborhood and I dont feel like calling the police everynight.  Thank you. </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>45</ID>
+        <Timestamp>20101017181424</Timestamp>
+        <Name>Peyton</Name>
+        <EMail></EMail>
+        <Text>I'm in BJ and im not scared at all go tonight ok you will see me in like a flowery dress thats kinda chinieseyou in? :roll: </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>46</ID>
+        <Timestamp>20101017181649</Timestamp>
+        <Name>other neighbor</Name>
+        <EMail></EMail>
+        <Text>Hey guys!!!  I came last night and had a blast!!!  you guys did an amazing job!!  As far as the sound and time goes I think you did very well and we appreciate the early ending time.  We were inside visiting your fortune teller when it closed and they had a lady at the gate not allowing anyone else in....just finishing they line they had.  Thanks again for putting something together like this, we really enjoyed ourselves.  I think the cut off for sound on the weekend is midnight so you may want to look into it!!  We are coming back tonight, see you then!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>47</ID>
+        <Timestamp>20101017181914</Timestamp>
+        <Name>Peyton</Name>
+        <EMail>schlagela@yahoo.com</EMail>
+        <Text>Hey chris im going to the hanted hill tonight you in? oh and i am 8!! :roll:my my my cant  wait!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>48</ID>
+        <Timestamp>20101017205618</Timestamp>
+        <Name>Jack and Jill</Name>
+        <EMail>JackandJillsHauntedHill@Gmail.com</EMail>
+        <Text>Hey neighbor!! Thank you for being cool and writing us here!!  We for sure keep in mind that we are in a neighborhood and appreciate you letting everyone enjoy the hard work we spent putting this years Haunt together.  No one is is granted entry into the Hunted Hill after 10pm.  We have someone on watch at the door only allowing people out.  Other than the cast who stays to clean up, no one else is here after the 10pm close time.  We just finish the line and thats it!!  Thanks for your understanding and I hope you can make it out!!  Maybe you'll be lucky enough to make it out....ALIVE!!!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>49</ID>
+        <Timestamp>20101018080507</Timestamp>
+        <Name>ANOTRS</Name>
+        <EMail>Antred@yahoopoop.com</EMail>
+        <Text>5 ***** Star must experience very awesome. </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>50</ID>
+        <Timestamp>20101018211150</Timestamp>
+        <Name>gus</Name>
+        <EMail>g.serrano75@yahoo.com</EMail>
+        <Text>detail please</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>51</ID>
+        <Timestamp>20101019032152</Timestamp>
+        <Name>COCK BLOCK 17</Name>
+        <EMail>JACK15@COX.NET</EMail>
+        <Text>IT WAS FUCKING SCARY BITCHES!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>52</ID>
+        <Timestamp>20101019032216</Timestamp>
+        <Name>COCK BLOCK 17</Name>
+        <EMail>JACK15@COX.NET</EMail>
+        <Text>SCARY</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>53</ID>
+        <Timestamp>20101019032240</Timestamp>
+        <Name>JOEY R</Name>
+        <EMail>JACK15@COX.NET</EMail>
+        <Text>SCARY</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>54</ID>
+        <Timestamp>20101019034031</Timestamp>
+        <Name>Yo-Yo</Name>
+        <EMail></EMail>
+        <Text>I have a question:
+at this hautned house..do the actors just pop out and scare you?
+Or do they actually chase you around everywhere?
+Thanks!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>55</ID>
+        <Timestamp>20101019042139</Timestamp>
+        <Name>Jack</Name>
+        <EMail>JackandJillsHauntedHill@Gmail.com</EMail>
+        <Text>So scared that he's asking for a preview...HA HA HA :smirk: </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>56</ID>
+        <Timestamp>20101019184855</Timestamp>
+        <Name>Tanya</Name>
+        <EMail>tmdivan2003@yahoo.com</EMail>
+        <Text>I have three brave 8 year old girls that want to go to a haunted house for a bday party.  Would this be a good place for them?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>57</ID>
+        <Timestamp>20101019221107</Timestamp>
+        <Name>BS</Name>
+        <EMail></EMail>
+        <Text>Hope this will be worth my time</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>58</ID>
+        <Timestamp>20101019222844</Timestamp>
+        <Name>jacqueline</Name>
+        <EMail>jacquedelphi2007@hotmail.com</EMail>
+        <Text>i never been to a haunted house.can you tell me more about what to expect there?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>59</ID>
+        <Timestamp>20101019225436</Timestamp>
+        <Name>yroc</Name>
+        <EMail>co2yroc@yahoo.com</EMail>
+        <Text>I have been to a few of the big haunted houses this year and wasnt happy for the price they charge.   by far this was the best one i have ever been to and it was cheap. already cant wait for next year! wow freaked me out.  couldnt sleep!!!! </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>60</ID>
+        <Timestamp>20101019233546</Timestamp>
+        <Name>Ryan S</Name>
+        <EMail>rylucpicard@gmail.com</EMail>
+        <Text>My girlfriend and I went last weekend after hearing from some friends that went how scary it was.  She had to have a few drinks before getting there just to get over the anxiety of going in.  Hands down the creepiest and most intimate spookfest I've ever seen.  I would give it two thumbs up, and my girlfriend would tell you to wear diapers!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>61</ID>
+        <Timestamp>20101022010534</Timestamp>
+        <Name>jljhh</Name>
+        <EMail>gayuy_porn.com</EMail>
+        <Text>itz really scary you wil shit your pants</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>62</ID>
+        <Timestamp>20101022022639</Timestamp>
+        <Name>Peyton</Name>
+        <EMail>peytonschlagel@gmail.com</EMail>
+        <Text>cannot wait probaly going tomorrow :blush:whine whine im only 8!  :zonked: </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>63</ID>
+        <Timestamp>20101023000938</Timestamp>
+        <Name>Cristin</Name>
+        <EMail>Barbiee1225@hotmail.com</EMail>
+        <Text>Goinq tewNite Wit ThaFriends Nd Family.. :evil: </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>64</ID>
+        <Timestamp>20101023033120</Timestamp>
+        <Name>jack</Name>
+        <EMail>peacelove@aol.com</EMail>
+        <Text>terrrrrrrrrrible!!!!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>65</ID>
+        <Timestamp>20101023045430</Timestamp>
+        <Name>antwon</Name>
+        <EMail>marina.ramirez847@gmail.com</EMail>
+        <Text>just went and it's not even scary . but i shit my pants. &lt;lol&gt; :-P </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>66</ID>
+        <Timestamp>20101023053246</Timestamp>
+        <Name>Cristin </Name>
+        <EMail>Barbiee1225@hotmail.com</EMail>
+        <Text>I Went Nd Iht Was Fun Buht Gud Actors ! :naughty: </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>67</ID>
+        <Timestamp>20101023174136</Timestamp>
+        <Name>maggie</Name>
+        <EMail></EMail>
+        <Text>how long is the walk through ?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>68</ID>
+        <Timestamp>20101023174308</Timestamp>
+        <Name>maggie l</Name>
+        <EMail>mmlunceford102@gmail.com</EMail>
+        <Text>how long is the walk through</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>69</ID>
+        <Timestamp>20101023181129</Timestamp>
+        <Name>MacKenzie </Name>
+        <EMail>hazelgrl202@aim.com</EMail>
+        <Text>I ALREADY TOLD YOU!! stupid mormon.... :) i loveyou</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>70</ID>
+        <Timestamp>20101023212332</Timestamp>
+        <Name>Ginger</Name>
+        <EMail></EMail>
+        <Text>Whats the scariest part? Do the actors chase you around? or just pop out and scare you? I need info! :)</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>71</ID>
+        <Timestamp>20101024040921</Timestamp>
+        <Name>Chas.</Name>
+        <EMail>chas.riggs200@hotmail.com</EMail>
+        <Text>REALLY REALLY WELL DONE !!! My wife, daughter and I were impressed.  Worth every penny and then some. Will definately scare everyone, we will go again before Halloween!!! </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>72</ID>
+        <Timestamp>20101024192115</Timestamp>
+        <Name>MIke</Name>
+        <EMail></EMail>
+        <Text>Great price! and I screamed my ass off... a natural reaction... I couldn't control it if my life depend on it!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>73</ID>
+        <Timestamp>20101024211237</Timestamp>
+        <Name>aaron</Name>
+        <EMail>carsgobeep123@gmail.com</EMail>
+        <Text>this place was so scary especially the part at the beginning and im only 11</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>74</ID>
+        <Timestamp>20101025030719</Timestamp>
+        <Name>Kelly</Name>
+        <EMail>klevine@cox.net</EMail>
+        <Text>Just got back from there some cool stuff it's really dark in there sets are cool. I suggest the VIP tickets only 5 more they only let in people about every 10 minutes. </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>75</ID>
+        <Timestamp>20101025212411</Timestamp>
+        <Name>JoeMama</Name>
+        <EMail></EMail>
+        <Text>Very true on the VIP tickets!!  We did vip on sat but they were pretty slow on sunday so we just waited in line....we were watching our cell phones and its about 4 to 7 min between groups....totally worth it though!!!  I cant belive some of the sh!t they pull off!!!!!its awesome</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>76</ID>
+        <Timestamp>20101025231732</Timestamp>
+        <Name>Dawn</Name>
+        <EMail></EMail>
+        <Text>This Haunted House was definitely worth it. Its better than the expensive ones. They get all up in your face! It was really fun! I was hanging all over my mans arm, the whole time...Hehe pretty scary!!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>77</ID>
+        <Timestamp>20101025234547</Timestamp>
+        <Name>Tribe &amp; Co</Name>
+        <EMail></EMail>
+        <Text>My husband &amp; I took our 6,7,10 yr old boy's- It would have been fun if some lady we didnt know had joined us on our turn...she kept telling us GO GO GO. So we kinda rushed through it because of her- my husband &amp; our boy's had fun except for that lady naggin us to GO GO GO. Really worth going too- I will defiently take the boy's back next year with hubby.</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>78</ID>
+        <Timestamp>20101026004304</Timestamp>
+        <Name>Jasmine</Name>
+        <EMail></EMail>
+        <Text>heard the website on the radio this morning! looking forward to coming and see if all these comments are true :-0</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>79</ID>
+        <Timestamp>20101026044715</Timestamp>
+        <Name>Francis </Name>
+        <EMail>Fcasaccio65@q.com</EMail>
+        <Text>My Husband and my  Grown kids are planning our halloween week. this will be one of the stops we make! Let you know how it goes.</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>80</ID>
+        <Timestamp>20101027010307</Timestamp>
+        <Name>Tea &amp; Michelle</Name>
+        <EMail>hopefulnow99@aol.com</EMail>
+        <Text>What an AWESOME haunted house!  The best I've been too in a long time - very original, loved the Jack &amp; Jill theme.  The actors were great and I loved the setting - going into rooms and having doors closed on us!!!  Wow, we were scared too death!  High Five for emotionally traumatized!  Thank You!!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>81</ID>
+        <Timestamp>20101027025340</Timestamp>
+        <Name>amy</Name>
+        <EMail>lauraanahy-25@hotmail.com</EMail>
+        <Text>I had never heard about this place before. I tried to send them an email to find out how much the vip tickets cost but it dose not let me. can anyone help me I am scared of this being fake. =(</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>82</ID>
+        <Timestamp>20101027033118</Timestamp>
+        <Name>Bev</Name>
+        <EMail></EMail>
+        <Text>Hey Amy, the VIP tickets are $10.00.  It's not fake and it's an AWESOME Haunt.  See you this weekend????? :glad: </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>83</ID>
+        <Timestamp>20101028044216</Timestamp>
+        <Name>kaylyn </Name>
+        <EMail>kaylynshackelfrod@yahoo.com</EMail>
+        <Text>omg do excited going wit a bud and scared O.O give me the deatails any one????  :eek:</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>84</ID>
+        <Timestamp>20101028044225</Timestamp>
+        <Name>kaylyn </Name>
+        <EMail>kaylynshackelfrod@yahoo.com</EMail>
+        <Text>so excited</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>85</ID>
+        <Timestamp>20101029010917</Timestamp>
+        <Name>rebecca </Name>
+        <EMail></EMail>
+        <Text>hey i am scared to but cant wait :-P </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>86</ID>
+        <Timestamp>20101029052745</Timestamp>
+        <Name>Annie</Name>
+        <EMail>pre4mer@yahoo.com</EMail>
+        <Text>Hey there do you have to be 18 to do the 18 year old script or can you be younger?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>87</ID>
+        <Timestamp>20101029235054</Timestamp>
+        <Name>kaylyn </Name>
+        <EMail>kaylnshackelford@yahoo.com</EMail>
+        <Text>rebecca???  I CANT WAIT AHHHHHH :eek:</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>88</ID>
+        <Timestamp>20101030003525</Timestamp>
+        <Name>Arias</Name>
+        <EMail>arias_slv@yahoo.com</EMail>
+        <Text>Is It Kind Of Like The Nest? :-/ </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>89</ID>
+        <Timestamp>20101030015539</Timestamp>
+        <Name>Shamekaa</Name>
+        <EMail>mmeka10@hotmail.com</EMail>
+        <Text>Iss it really scaryyy ?</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>90</ID>
+        <Timestamp>20101030021240</Timestamp>
+        <Name>Scott</Name>
+        <EMail></EMail>
+        <Text>It's  not like any other haunt, completely unique! Yes, very scary! This is the last weekend to go, don't miss out :exclaim: :-)) </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>91</ID>
+        <Timestamp>20101030143514</Timestamp>
+        <Name>Kathi, Andy and Kyle</Name>
+        <EMail>kathistewart48@yahoo.com</EMail>
+        <Text>We have gone to many....and this by far is unique, creative, scary and fun.  Great for the money...highly recommend it! :-)) </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>92</ID>
+        <Timestamp>20101030190319</Timestamp>
+        <Name>kaylyn </Name>
+        <EMail>kaylynshackelfrod@yahoo.com</EMail>
+        <Text>OMG IT WAS AWESOME MY bud was crying in my arms</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>93</ID>
+        <Timestamp>20101031012116</Timestamp>
+        <Name>Dexter Morgan</Name>
+        <EMail>chingaso@buttrape.com</EMail>
+        <Text>I loved it!  My friend peed in her pants, we had to borrow some shorts before she could leave. I think she pooped too, but it was too dark so I couldn't really tell until she got in the car and then you could smell the poo.  Go here and get the SHIT scared out of you. Literally. </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>94</ID>
+        <Timestamp>20101031045445</Timestamp>
+        <Name>athena</Name>
+        <EMail>mylife22faz@aol.com</EMail>
+        <Text>its cool but it lasts about 5 min</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>95</ID>
+        <Timestamp>20101031164259</Timestamp>
+        <Name>Jaszmin &amp;&amp; Monique!</Name>
+        <EMail>chika_bambam72@yahoo.com</EMail>
+        <Text>Ahah! Went last night.. Met weird people lol, pretty fun, And scary,</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>97</ID>
+        <Timestamp>20101031174423</Timestamp>
+        <Name>Kyle</Name>
+        <EMail>ktm2806@yahoo.com</EMail>
+        <Text>OMG Thats GROSS :-/ </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>99</ID>
+        <Timestamp>20101101022645</Timestamp>
+        <Name>Anthony Salcido</Name>
+        <EMail>anthony_salcido65@yahoo.com</EMail>
+        <Text>I have been to many haunted houses, but not like this one. It did not last long, but it is well worth the price. My wife was to scared to go in so she made me go, and had me tell her about it. I do recommend to all my friends. The group I was in did not want to be the leader going in so stepped up and went on first. </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>100</ID>
+        <Timestamp>20101101210335</Timestamp>
+        <Name>MB</Name>
+        <EMail>mbd143@hotmail.com</EMail>
+        <Text>This was a great haunted house...worth the time in line.  Reasonably priced for families...much better than the other haunted house venues...a must see!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>101</ID>
+        <Timestamp>20110226232043</Timestamp>
+        <Name>tori</Name>
+        <EMail>toribellulu15@yahoo.com</EMail>
+        <Text>omg that lookds so scary :eek: </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>102</ID>
+        <Timestamp>20110226233127</Timestamp>
+        <Name>Ashley and tori</Name>
+        <EMail>ashes5898@yahoo.com</EMail>
+        <Text>me and my friend tori are going to go this Halloween we cant wait ;) </Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>103</ID>
+        <Timestamp>20110305200346</Timestamp>
+        <Name>Jill</Name>
+        <EMail></EMail>
+        <Text>This was the first haunted house i went to and it was not the worth the wait in line. it was scary but it took over 2 hours to go thru a little house that took aboput 4 minutes to get thru. i loved it dont get me wrong but the line took forever.</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>104</ID>
+        <Timestamp>20110413105610</Timestamp>
+        <Name>leslye luera</Name>
+        <EMail>leslye_luera@hotmail.com</EMail>
+        <Text>THAT WAS SCARYY AS HEKK!!!!! i fell like 30 times! i hate it whene those wierdo crazzies where jumping up and down in the cage full of blood!!!!!!!!</Text>
+    </Shoutbox>
+    <Shoutbox>
+        <ID>105</ID>
+        <Timestamp>20110713155050</Timestamp>
+        <Name>Maggie</Name>
+        <EMail>mckeough@massmed.org</EMail>
+        <Text>So excited I found this artilce as it made things much quicker!</Text>
+    </Shoutbox>
+</shoutbox>

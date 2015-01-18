@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 2.8.2.4
+- http://www.phpmyadmin.net
+-
+- Host: localhost:3306
+- Generation Time: Jun 22, 2012 at 05:07 PM
+- Server version: 5.0.32
+- PHP Version: 5.2.6
+-->
+
+<!--
+- Database: `ratings`
+-->
+<ratings>
+  <!-- Table ratings -->
+    <ratings>
+        <id>overall</id>
+        <total_votes>87</total_votes>
+        <total_value>470</total_value>
+        <used_ips>a:87:{i:1;s:13:&quot;65.101.16.237&quot;;i:2;s:14:&quot;72.222.239.196&quot;;i:3;s:12:&quot;12.152.67.72&quot;;i:4;s:11:&quot;159.182.1.4&quot;;i:5;s:14:&quot;31.211.200.100&quot;;i:6;s:13:&quot;68.106.55.191&quot;;i:7;s:14:&quot;98.190.154.141&quot;;i:8;s:11:&quot;68.98.17.54&quot;;i:9;s:13:&quot;70.59.226.143&quot;;i:10;s:13:&quot;70.171.247.59&quot;;i:11;s:13:&quot;97.124.80.152&quot;;i:12;s:12:&quot;69.58.178.57&quot;;i:13;s:12:&quot;68.99.207.82&quot;;i:14;s:13:&quot;72.223.105.30&quot;;i:15;s:12:&quot;68.226.18.85&quot;;i:16;s:14:&quot;72.222.219.219&quot;;i:17;s:12:&quot;157.55.39.88&quot;;i:18;s:14:&quot;72.201.178.232&quot;;i:19;s:11:&quot;68.3.57.157&quot;;i:20;s:13:&quot;204.15.222.77&quot;;i:21;s:12:&quot;68.2.196.105&quot;;i:22;s:11:&quot;98.165.28.4&quot;;i:23;s:14:&quot;174.26.242.215&quot;;i:24;s:13:&quot;75.171.10.168&quot;;i:25;s:12:&quot;138.69.160.1&quot;;i:26;s:14:&quot;208.115.111.67&quot;;i:27;s:13:&quot;46.165.196.88&quot;;i:28;s:12:&quot;162.93.249.1&quot;;i:29;s:15:&quot;173.193.219.168&quot;;i:30;s:13:&quot;98.165.43.216&quot;;i:31;s:14:&quot;174.26.228.203&quot;;i:32;s:14:&quot;71.209.148.188&quot;;i:33;s:13:&quot;97.124.97.232&quot;;i:34;s:11:&quot;68.3.83.101&quot;;i:35;s:11:&quot;68.2.119.67&quot;;i:36;s:11:&quot;70.176.0.69&quot;;i:37;s:11:&quot;24.255.1.16&quot;;i:38;s:14:&quot;68.228.236.106&quot;;i:39;s:11:&quot;176.9.30.51&quot;;i:40;s:12:&quot;69.58.178.59&quot;;i:41;s:12:&quot;174.26.44.79&quot;;i:42;s:13:&quot;69.84.207.147&quot;;i:43;s:14:&quot;64.120.233.150&quot;;i:44;s:11:&quot;77.75.77.11&quot;;i:45;s:13:&quot;62.212.69.136&quot;;i:46;s:12:&quot;176.9.51.138&quot;;i:47;s:13:&quot;174.133.5.250&quot;;i:48;s:13:&quot;121.9.222.203&quot;;i:49;s:12:&quot;69.58.178.56&quot;;i:50;s:13:&quot;66.226.72.148&quot;;i:51;s:14:&quot;208.115.113.83&quot;;i:52;s:13:&quot;204.11.219.77&quot;;i:53;s:13:&quot;213.186.127.6&quot;;i:54;s:14:&quot;77.222.128.221&quot;;i:55;s:13:&quot;204.11.219.89&quot;;i:56;s:13:&quot;173.192.34.95&quot;;i:57;s:13:&quot;78.158.11.226&quot;;i:58;s:13:&quot;74.231.185.50&quot;;i:59;s:12:&quot;62.219.8.228&quot;;i:60;s:13:&quot;67.222.109.36&quot;;i:61;s:12:&quot;66.226.77.39&quot;;i:62;s:12:&quot;23.20.94.223&quot;;i:63;s:14:&quot;174.37.137.143&quot;;i:64;s:12:&quot;176.9.51.139&quot;;i:65;s:15:&quot;199.195.141.235&quot;;i:66;s:12:&quot;46.4.100.138&quot;;i:67;s:14:&quot;188.138.48.235&quot;;i:68;s:12:&quot;62.212.76.38&quot;;i:69;s:13:&quot;184.72.75.236&quot;;i:70;s:13:&quot;72.208.59.232&quot;;i:71;s:12:&quot;23.20.97.162&quot;;i:72;s:12:&quot;23.20.175.90&quot;;i:73;s:13:&quot;23.20.204.157&quot;;i:74;s:11:&quot;77.75.77.17&quot;;i:75;s:14:&quot;184.22.121.230&quot;;i:76;s:13:&quot;70.176.45.123&quot;;i:77;s:13:&quot;184.73.118.63&quot;;i:78;s:14:&quot;199.187.122.98&quot;;i:79;s:13:&quot;157.56.94.169&quot;;i:80;s:13:&quot;157.56.95.128&quot;;i:81;s:13:&quot;82.192.66.250&quot;;i:82;s:13:&quot;184.22.103.22&quot;;i:83;s:12:&quot;176.9.51.194&quot;;i:84;s:12:&quot;70.190.101.9&quot;;i:85;s:12:&quot;50.16.83.202&quot;;i:86;s:13:&quot;38.111.147.83&quot;;i:87;s:12:&quot;91.205.96.13&quot;;}</used_ips>
+    </ratings>
+    <ratings>
+        <id>originality</id>
+        <total_votes>73</total_votes>
+        <total_value>452</total_value>
+        <used_ips>a:73:{i:0;s:13:&quot;72.208.59.232&quot;;i:1;s:13:&quot;65.101.16.237&quot;;i:2;s:14:&quot;72.222.239.196&quot;;i:3;s:12:&quot;12.152.67.72&quot;;i:4;s:11:&quot;159.182.1.4&quot;;i:5;s:13:&quot;68.106.55.191&quot;;i:6;s:11:&quot;68.98.17.54&quot;;i:7;s:13:&quot;70.59.226.143&quot;;i:8;s:13:&quot;70.171.247.59&quot;;i:9;s:12:&quot;69.58.178.57&quot;;i:10;s:12:&quot;68.226.18.85&quot;;i:11;s:12:&quot;157.55.39.88&quot;;i:12;s:13:&quot;98.191.103.23&quot;;i:13;s:13:&quot;72.201.19.108&quot;;i:14;s:11:&quot;68.3.57.157&quot;;i:15;s:13:&quot;204.15.222.77&quot;;i:16;s:12:&quot;68.2.196.105&quot;;i:17;s:11:&quot;98.165.28.4&quot;;i:18;s:14:&quot;174.26.242.215&quot;;i:19;s:13:&quot;75.171.10.168&quot;;i:20;s:12:&quot;138.69.160.1&quot;;i:21;s:13:&quot;46.165.196.88&quot;;i:22;s:14:&quot;208.115.111.67&quot;;i:23;s:12:&quot;162.93.249.1&quot;;i:24;s:15:&quot;173.193.219.168&quot;;i:25;s:13:&quot;98.165.43.216&quot;;i:26;s:14:&quot;174.26.228.203&quot;;i:27;s:14:&quot;71.209.148.188&quot;;i:28;s:13:&quot;97.124.97.232&quot;;i:29;s:11:&quot;68.3.83.101&quot;;i:30;s:11:&quot;68.2.119.67&quot;;i:31;s:11:&quot;70.176.0.69&quot;;i:32;s:11:&quot;24.255.1.16&quot;;i:33;s:14:&quot;68.228.236.106&quot;;i:34;s:11:&quot;176.9.30.51&quot;;i:35;s:12:&quot;69.58.178.59&quot;;i:36;s:13:&quot;69.84.207.147&quot;;i:37;s:14:&quot;112.210.238.81&quot;;i:38;s:13:&quot;62.212.69.136&quot;;i:39;s:12:&quot;176.9.51.138&quot;;i:40;s:13:&quot;174.133.5.250&quot;;i:41;s:13:&quot;121.9.222.203&quot;;i:42;s:12:&quot;69.58.178.56&quot;;i:43;s:11:&quot;77.75.77.11&quot;;i:44;s:14:&quot;208.115.113.83&quot;;i:45;s:13:&quot;204.11.219.77&quot;;i:46;s:13:&quot;213.186.127.6&quot;;i:47;s:14:&quot;77.222.128.221&quot;;i:48;s:13:&quot;204.11.219.89&quot;;i:49;s:13:&quot;173.192.34.95&quot;;i:50;s:13:&quot;74.231.185.50&quot;;i:51;s:11:&quot;77.75.77.17&quot;;i:52;s:12:&quot;62.219.8.228&quot;;i:53;s:14:&quot;174.37.137.143&quot;;i:54;s:12:&quot;176.9.51.139&quot;;i:55;s:15:&quot;199.195.141.235&quot;;i:56;s:14:&quot;188.138.48.235&quot;;i:57;s:12:&quot;62.212.76.38&quot;;i:58;s:13:&quot;78.158.11.226&quot;;i:59;s:12:&quot;23.20.97.162&quot;;i:60;s:12:&quot;23.20.175.90&quot;;i:61;s:13:&quot;23.20.204.157&quot;;i:62;s:14:&quot;184.22.121.230&quot;;i:63;s:13:&quot;70.176.45.123&quot;;i:64;s:13:&quot;184.73.118.63&quot;;i:65;s:13:&quot;157.56.94.169&quot;;i:66;s:13:&quot;157.56.95.128&quot;;i:67;s:13:&quot;82.192.66.250&quot;;i:68;s:13:&quot;184.22.103.22&quot;;i:69;s:12:&quot;176.9.51.194&quot;;i:70;s:12:&quot;70.190.101.9&quot;;i:71;s:12:&quot;50.16.83.202&quot;;i:72;s:13:&quot;38.111.147.83&quot;;}</used_ips>
+    </ratings>
+    <ratings>
+        <id>sets</id>
+        <total_votes>72</total_votes>
+        <total_value>404</total_value>
+        <used_ips>a:72:{i:0;s:13:&quot;72.208.59.232&quot;;i:1;s:13:&quot;65.101.16.237&quot;;i:2;s:14:&quot;72.222.239.196&quot;;i:3;s:12:&quot;12.152.67.72&quot;;i:4;s:11:&quot;159.182.1.4&quot;;i:5;s:13:&quot;68.106.55.191&quot;;i:6;s:11:&quot;68.98.17.54&quot;;i:7;s:13:&quot;70.59.226.143&quot;;i:8;s:13:&quot;70.171.247.59&quot;;i:9;s:12:&quot;69.58.178.57&quot;;i:10;s:13:&quot;72.44.195.180&quot;;i:11;s:12:&quot;68.226.18.85&quot;;i:12;s:12:&quot;157.55.39.88&quot;;i:13;s:11:&quot;68.3.57.157&quot;;i:14;s:13:&quot;204.15.222.77&quot;;i:15;s:12:&quot;68.2.196.105&quot;;i:16;s:11:&quot;98.165.28.4&quot;;i:17;s:14:&quot;174.26.242.215&quot;;i:18;s:13:&quot;75.171.10.168&quot;;i:19;s:12:&quot;138.69.160.1&quot;;i:20;s:13:&quot;46.165.196.88&quot;;i:21;s:12:&quot;162.93.249.1&quot;;i:22;s:15:&quot;173.193.219.168&quot;;i:23;s:13:&quot;98.165.43.216&quot;;i:24;s:14:&quot;174.26.228.203&quot;;i:25;s:14:&quot;208.115.111.67&quot;;i:26;s:14:&quot;71.209.148.188&quot;;i:27;s:13:&quot;97.124.97.232&quot;;i:28;s:11:&quot;68.3.83.101&quot;;i:29;s:11:&quot;68.2.119.67&quot;;i:30;s:11:&quot;70.176.0.69&quot;;i:31;s:11:&quot;24.255.1.16&quot;;i:32;s:14:&quot;68.228.236.106&quot;;i:33;s:11:&quot;176.9.30.51&quot;;i:34;s:11:&quot;77.75.77.11&quot;;i:35;s:12:&quot;69.58.178.59&quot;;i:36;s:13:&quot;69.84.207.147&quot;;i:37;s:14:&quot;64.120.233.150&quot;;i:38;s:13:&quot;62.212.69.136&quot;;i:39;s:12:&quot;176.9.51.138&quot;;i:40;s:13:&quot;174.133.5.250&quot;;i:41;s:13:&quot;121.9.222.203&quot;;i:42;s:12:&quot;69.58.178.56&quot;;i:43;s:13:&quot;204.11.219.77&quot;;i:44;s:13:&quot;213.186.127.6&quot;;i:45;s:14:&quot;208.115.113.83&quot;;i:46;s:14:&quot;77.222.128.221&quot;;i:47;s:13:&quot;204.11.219.89&quot;;i:48;s:13:&quot;173.192.34.95&quot;;i:49;s:13:&quot;74.231.185.50&quot;;i:50;s:12:&quot;62.219.8.228&quot;;i:51;s:12:&quot;66.226.77.39&quot;;i:52;s:14:&quot;174.37.137.143&quot;;i:53;s:12:&quot;176.9.51.139&quot;;i:54;s:15:&quot;199.195.141.235&quot;;i:55;s:12:&quot;46.4.100.138&quot;;i:56;s:14:&quot;188.138.48.235&quot;;i:57;s:12:&quot;62.212.76.38&quot;;i:58;s:12:&quot;23.20.97.162&quot;;i:59;s:12:&quot;23.20.175.90&quot;;i:60;s:13:&quot;23.20.204.157&quot;;i:61;s:11:&quot;77.75.77.17&quot;;i:62;s:14:&quot;184.22.121.230&quot;;i:63;s:13:&quot;70.176.45.123&quot;;i:64;s:13:&quot;184.73.118.63&quot;;i:65;s:13:&quot;157.56.94.169&quot;;i:66;s:13:&quot;157.56.95.128&quot;;i:67;s:13:&quot;184.22.103.22&quot;;i:68;s:12:&quot;176.9.51.194&quot;;i:69;s:12:&quot;70.190.101.9&quot;;i:70;s:12:&quot;50.16.83.202&quot;;i:71;s:13:&quot;38.111.147.83&quot;;}</used_ips>
+    </ratings>
+    <ratings>
+        <id>actors</id>
+        <total_votes>86</total_votes>
+        <total_value>484</total_value>
+        <used_ips>a:86:{i:0;s:13:&quot;72.208.59.232&quot;;i:1;s:13:&quot;65.101.16.237&quot;;i:2;s:14:&quot;72.222.239.196&quot;;i:3;s:12:&quot;12.152.67.72&quot;;i:4;s:11:&quot;159.182.1.4&quot;;i:5;s:14:&quot;31.211.200.100&quot;;i:6;s:13:&quot;68.106.55.191&quot;;i:7;s:14:&quot;98.190.154.141&quot;;i:8;s:11:&quot;68.98.17.54&quot;;i:9;s:13:&quot;70.59.226.143&quot;;i:10;s:13:&quot;70.171.247.59&quot;;i:11;s:13:&quot;97.124.80.152&quot;;i:12;s:12:&quot;69.58.178.57&quot;;i:13;s:12:&quot;68.99.207.82&quot;;i:14;s:13:&quot;72.223.105.30&quot;;i:15;s:12:&quot;68.226.18.85&quot;;i:16;s:14:&quot;72.222.219.219&quot;;i:17;s:12:&quot;157.55.39.88&quot;;i:18;s:14:&quot;72.201.178.232&quot;;i:19;s:11:&quot;68.3.57.157&quot;;i:20;s:13:&quot;204.15.222.77&quot;;i:21;s:14:&quot;72.201.127.233&quot;;i:22;s:12:&quot;68.2.196.105&quot;;i:23;s:12:&quot;88.131.106.2&quot;;i:24;s:11:&quot;98.165.28.4&quot;;i:25;s:14:&quot;174.26.242.215&quot;;i:26;s:13:&quot;75.171.10.168&quot;;i:27;s:12:&quot;138.69.160.1&quot;;i:28;s:13:&quot;46.165.196.88&quot;;i:29;s:12:&quot;162.93.249.1&quot;;i:30;s:15:&quot;173.193.219.168&quot;;i:31;s:14:&quot;174.26.228.203&quot;;i:32;s:14:&quot;71.209.148.188&quot;;i:33;s:13:&quot;97.124.97.232&quot;;i:34;s:12:&quot;75.172.195.8&quot;;i:35;s:11:&quot;68.3.83.101&quot;;i:36;s:14:&quot;208.115.111.67&quot;;i:37;s:11:&quot;68.2.119.67&quot;;i:38;s:11:&quot;70.176.0.69&quot;;i:39;s:11:&quot;24.255.1.16&quot;;i:40;s:14:&quot;68.228.236.106&quot;;i:41;s:11:&quot;176.9.30.51&quot;;i:42;s:12:&quot;69.58.178.59&quot;;i:43;s:13:&quot;69.84.207.147&quot;;i:44;s:13:&quot;62.212.69.136&quot;;i:45;s:11:&quot;77.75.77.11&quot;;i:46;s:12:&quot;176.9.51.138&quot;;i:47;s:13:&quot;174.133.5.250&quot;;i:48;s:13:&quot;121.9.222.203&quot;;i:49;s:12:&quot;69.58.178.56&quot;;i:50;s:13:&quot;66.226.72.148&quot;;i:51;s:14:&quot;208.115.113.83&quot;;i:52;s:14:&quot;89.139.248.177&quot;;i:53;s:13:&quot;204.11.219.77&quot;;i:54;s:13:&quot;213.186.127.6&quot;;i:55;s:14:&quot;77.222.128.221&quot;;i:56;s:13:&quot;204.11.219.89&quot;;i:57;s:13:&quot;173.192.34.95&quot;;i:58;s:13:&quot;74.231.185.50&quot;;i:59;s:12:&quot;62.219.8.228&quot;;i:60;s:13:&quot;67.222.109.36&quot;;i:61;s:12:&quot;66.226.77.39&quot;;i:62;s:12:&quot;23.20.94.223&quot;;i:63;s:14:&quot;174.37.137.143&quot;;i:64;s:12:&quot;176.9.51.139&quot;;i:65;s:15:&quot;199.195.141.235&quot;;i:66;s:12:&quot;46.4.100.138&quot;;i:67;s:14:&quot;188.138.48.235&quot;;i:68;s:12:&quot;62.212.76.38&quot;;i:69;s:13:&quot;184.72.75.236&quot;;i:70;s:12:&quot;23.20.97.162&quot;;i:71;s:12:&quot;23.20.175.90&quot;;i:72;s:13:&quot;23.20.204.157&quot;;i:73;s:11:&quot;77.75.77.17&quot;;i:74;s:14:&quot;184.22.121.230&quot;;i:75;s:13:&quot;70.176.45.123&quot;;i:76;s:13:&quot;184.73.118.63&quot;;i:77;s:13:&quot;157.56.94.169&quot;;i:78;s:13:&quot;157.56.95.128&quot;;i:79;s:13:&quot;82.192.66.250&quot;;i:80;s:13:&quot;184.22.103.22&quot;;i:81;s:12:&quot;176.9.51.194&quot;;i:82;s:12:&quot;70.190.101.9&quot;;i:83;s:12:&quot;50.16.83.202&quot;;i:84;s:13:&quot;38.111.147.83&quot;;i:85;s:12:&quot;91.205.96.13&quot;;}</used_ips>
+    </ratings>
+    <ratings>
+        <id>scare</id>
+        <total_votes>87</total_votes>
+        <total_value>462</total_value>
+        <used_ips>a:87:{i:0;s:13:&quot;72.208.59.232&quot;;i:1;s:13:&quot;65.101.16.237&quot;;i:2;s:14:&quot;72.222.239.196&quot;;i:3;s:12:&quot;12.152.67.72&quot;;i:4;s:11:&quot;159.182.1.4&quot;;i:5;s:14:&quot;31.211.200.100&quot;;i:6;s:13:&quot;98.165.133.71&quot;;i:7;s:13:&quot;69.171.161.16&quot;;i:8;s:13:&quot;68.106.55.191&quot;;i:9;s:11:&quot;68.98.17.54&quot;;i:10;s:13:&quot;68.106.32.115&quot;;i:11;s:13:&quot;70.59.226.143&quot;;i:12;s:13:&quot;70.171.247.59&quot;;i:13;s:12:&quot;69.58.178.57&quot;;i:14;s:14:&quot;68.231.151.214&quot;;i:15;s:14:&quot;24.251.222.169&quot;;i:16;s:12:&quot;68.226.18.85&quot;;i:17;s:14:&quot;72.222.219.219&quot;;i:18;s:12:&quot;157.55.39.88&quot;;i:19;s:13:&quot;98.191.103.23&quot;;i:20;s:11:&quot;68.3.57.157&quot;;i:21;s:13:&quot;204.15.222.77&quot;;i:22;s:13:&quot;174.17.29.228&quot;;i:23;s:12:&quot;68.2.196.105&quot;;i:24;s:11:&quot;98.165.28.4&quot;;i:25;s:14:&quot;174.26.242.215&quot;;i:26;s:13:&quot;75.171.10.168&quot;;i:27;s:12:&quot;88.131.106.2&quot;;i:28;s:12:&quot;138.69.160.1&quot;;i:29;s:13:&quot;46.165.196.88&quot;;i:30;s:12:&quot;162.93.249.1&quot;;i:31;s:15:&quot;173.193.219.168&quot;;i:32;s:13:&quot;98.165.43.216&quot;;i:33;s:14:&quot;174.26.228.203&quot;;i:34;s:14:&quot;71.209.148.188&quot;;i:35;s:13:&quot;97.124.97.232&quot;;i:36;s:11:&quot;68.3.83.101&quot;;i:37;s:11:&quot;68.2.119.67&quot;;i:38;s:14:&quot;208.115.111.67&quot;;i:39;s:11:&quot;70.176.0.69&quot;;i:40;s:14:&quot;68.228.236.106&quot;;i:41;s:11:&quot;176.9.30.51&quot;;i:42;s:12:&quot;69.58.178.59&quot;;i:43;s:13:&quot;69.84.207.147&quot;;i:44;s:14:&quot;64.120.233.150&quot;;i:45;s:13:&quot;62.212.69.136&quot;;i:46;s:12:&quot;176.9.51.138&quot;;i:47;s:13:&quot;174.133.5.250&quot;;i:48;s:13:&quot;121.9.222.203&quot;;i:49;s:12:&quot;69.58.178.56&quot;;i:50;s:13:&quot;66.226.72.148&quot;;i:51;s:14:&quot;208.115.113.83&quot;;i:52;s:11:&quot;77.75.77.11&quot;;i:53;s:13:&quot;204.11.219.77&quot;;i:54;s:13:&quot;213.186.127.6&quot;;i:55;s:14:&quot;77.222.128.221&quot;;i:56;s:13:&quot;204.11.219.89&quot;;i:57;s:13:&quot;173.192.34.95&quot;;i:58;s:13:&quot;78.158.11.226&quot;;i:59;s:13:&quot;74.231.185.50&quot;;i:60;s:12:&quot;62.219.8.228&quot;;i:61;s:13:&quot;67.222.109.36&quot;;i:62;s:12:&quot;66.226.77.39&quot;;i:63;s:12:&quot;23.20.94.223&quot;;i:64;s:11:&quot;77.75.77.17&quot;;i:65;s:14:&quot;174.37.137.143&quot;;i:66;s:12:&quot;176.9.51.139&quot;;i:67;s:15:&quot;199.195.141.235&quot;;i:68;s:12:&quot;46.4.100.138&quot;;i:69;s:14:&quot;188.138.48.235&quot;;i:70;s:12:&quot;62.212.76.38&quot;;i:71;s:13:&quot;184.72.75.236&quot;;i:72;s:12:&quot;23.20.97.162&quot;;i:73;s:12:&quot;23.20.175.90&quot;;i:74;s:13:&quot;23.20.204.157&quot;;i:75;s:14:&quot;184.22.121.230&quot;;i:76;s:13:&quot;70.176.45.123&quot;;i:77;s:13:&quot;184.73.118.63&quot;;i:78;s:13:&quot;157.56.94.169&quot;;i:79;s:13:&quot;157.56.95.128&quot;;i:80;s:13:&quot;82.192.66.250&quot;;i:81;s:13:&quot;184.22.103.22&quot;;i:82;s:12:&quot;176.9.51.194&quot;;i:83;s:12:&quot;70.190.101.9&quot;;i:84;s:12:&quot;50.16.83.202&quot;;i:85;s:13:&quot;38.111.147.83&quot;;i:86;s:12:&quot;91.205.96.13&quot;;}</used_ips>
+    </ratings>
+    <ratings>
+        <id>id21</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+    <ratings>
+        <id>id22</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+    <ratings>
+        <id>id1</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+    <ratings>
+        <id>2id</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+    <ratings>
+        <id>3xx</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+    <ratings>
+        <id>4test</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+    <ratings>
+        <id>5560</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+    <ratings>
+        <id>66234</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+    <ratings>
+        <id>66334</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+    <ratings>
+        <id>63334</id>
+        <total_votes>0</total_votes>
+        <total_value>0</total_value>
+        <used_ips></used_ips>
+    </ratings>
+</ratings>

@@ -1,0 +1,86 @@
+/*  styles for the unit rater
+--------------------------------------------------------- 
+ryan masuga, masugadesign.com
+ryan@masugadesign.com 
+Licensed under a Creative Commons Attribution 3.0 License.
+http://creativecommons.org/licenses/by/3.0/
+See readme.txt for full credit details.
+--------------------------------------------------------- */
+
+.ratingblock {
+	display: block;
+	padding: 0;
+	margin: 0 0 20px 0;
+}
+.ratingblock p {
+	padding: 0;
+	margin: 0 0 10px 0;
+}
+.loading {
+	height: 30px;
+	background: url('working.gif') 50% 50% no-repeat;
+}
+.unit-rating { /* the UL */
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	height: 25px;
+	position: relative;
+	background: url('starrating.gif') top left repeat-x;		
+}
+.unit-rating li{
+    text-indent: -90000px;
+	padding: 0;
+	margin: 0;
+	/*\*/
+	float: left;
+	/* */
+}
+.unit-rating li a {
+	outline: none;
+	display: block;
+	width: 25px;
+	height: 25px;
+	text-decoration: none;
+	text-indent: -9000px;
+	z-index: 20;
+	position: absolute;
+	padding: 0;
+}
+.unit-rating li a:hover {
+	background: url('starrating.gif') left center;
+	z-index: 2;
+	left: 0;
+}
+.unit-rating a.r1-unit {left:0;}
+.unit-rating a.r1-unit:hover {width:25px;}
+.unit-rating a.r2-unit {left:25px;}
+.unit-rating a.r2-unit:hover {width:50px;}
+.unit-rating a.r3-unit {left:50px;}
+.unit-rating a.r3-unit:hover {width:75px;}
+.unit-rating a.r4-unit {left:75px;}	
+.unit-rating a.r4-unit:hover {width:100px;}
+.unit-rating a.r5-unit {left:100px;}
+.unit-rating a.r5-unit:hover {width:125px;}
+.unit-rating a.r6-unit {left:125px;}
+.unit-rating a.r6-unit:hover {width:150px;}
+.unit-rating a.r7-unit {left:150px;}
+.unit-rating a.r7-unit:hover {width:175px;}
+.unit-rating a.r8-unit {left:175px;}
+.unit-rating a.r8-unit:hover {width:200px;}
+.unit-rating a.r9-unit {left:200px;}
+.unit-rating a.r9-unit:hover {width:225px;}
+.unit-rating a.r10-unit {left:225px;}
+.unit-rating a.r10-unit:hover {width:250px;}
+
+.unit-rating li.current-rating {
+	background: url('starrating.gif') left bottom;
+	position: absolute;
+	height: 25px;
+	display: block;
+	text-indent: -9000px;
+	z-index: 1;
+}
+.voted {color:#999;}
+.thanks {color:#36AA3D;}
+.static {color:#5D3126;}		

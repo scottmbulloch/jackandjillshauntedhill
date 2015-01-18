@@ -1,0 +1,207 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+	font: normal 14px Verdana,Arial,Helvetica,sans-serif;
+	color: #aaa;
+}
+a, a:visited {
+	color: #ff7700;
+	text-decoration: none;
+}
+a:active, a:hover {
+	text-decoration: underline;
+}
+img {
+	border: none;
+}
+p {
+	margin: 0 0 20px 0;
+	padding: 0;
+	font-size: 22px;
+}
+ul {
+	margin: 0 0 20px 40px;
+	padding: 0;
+	list-style-type: circle;
+	font-size: 22px;
+}
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	color: #660000;
+	text-align: center;
+}
+h1 {
+	font-size: 96px;
+}
+h2 { 
+	font-size: 64px;
+}
+h3 {
+	font-size: 48px;
+}
+code {
+	width: 420px;
+	overflow: auto;
+	padding: 5px 8px;
+	margin: 0 auto;
+	color: #aaa;
+	font-family: monospace;
+	background-color: #111;
+	display: block;
+	border: 2px solid #333;
+}
+#logo {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 1069px;
+	background: #000 url(img/hauntedhill.jpg) no-repeat top center;
+}
+#header {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 350px;
+	background: #000 url(img/header.jpg) no-repeat top center;
+}
+#house {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 600px;
+	background: #000 url(img/house.jpg) no-repeat top center;
+}
+#hill {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 400px;
+	background: #000 url(img/hill.jpg) no-repeat top center;
+}
+#intro {
+	margin: 0 auto;
+	padding: 100px 0 0 0; 
+	width: 900px;
+}
+#intro p {
+	margin: 0;
+	padding: 0 0 0 20px; 
+	font-size: 30px;
+	text-align: justify;
+	color: #aaa;
+}
+#main {
+	margin: 0 auto;
+	padding: 0;
+	width: 980px;
+}
+#description {
+	font-size: 24px;
+	font-weight: bold;
+	padding: 0 30px;
+	color: #990000;
+}
+#news {
+	margin: 0 auto;
+	padding: 5px 8px;
+	width: 750px;
+	height: 70px;
+	overflow: auto;
+	display: block;
+	float: right;
+	color: #aaa;
+	background-color: #111;
+	border: 2px solid #333;
+}
+#foot {
+	margin: 0 auto;
+	padding: 0;
+	width: 900px;
+	text-align: center;
+	font-size: 16px;
+	color: #990000;
+}
+#foot a {
+	text-decoration: none;
+	color: #990000;
+}
+.half {
+	margin: 0;
+	padding: 0;
+	width: 50%;
+}
+.whole {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.one_third {
+	margin: 0;
+	padding: 0;
+	width: 34%;
+}
+.two_thirds {
+	margin: 0;
+	padding: 0;
+	width: 66%;
+}
+.content {
+	margin: 10px;
+	padding: 10px;
+	border: 2px solid #660000;
+	background: #000 url(img/webs.jpg) no-repeat bottom center;
+}
+.center {
+	display: block;
+	margin: 0 auto;
+}
+.left {
+	display: block;
+	float: left;
+}
+.right {
+	display: block;
+	float: right;
+}
+.clear {
+	display: block;
+	clear: both;
+	height: 1px;
+	overflow: hidden;
+}
+td {
+	border: none;
+}
+table.bordered {
+	font-weight: bold;
+	border: 1px solid #333;
+	background-color: #111;
+}
+table.bordered th {
+	border: 1px solid #333;
+}
+table.bordered td {
+	vertical-align: top;
+	border: 1px solid #333;
+}
+th {
+	text-align: center;
+}
+th.month {
+	color: #aaa;
+	background-color: #333;
+}
+th.day {
+	width: 14%;
+	color: #aaa;
+	background-color: #222;
+}
+small {
+	font-size: 18px;
+}
+.note {
+	text-align: right;
+	color: #ff7700;
+}

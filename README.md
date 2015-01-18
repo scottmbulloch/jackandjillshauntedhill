@@ -1,2 +1,5 @@
-# jackandjillshauntedhill
-http://jackandjillshauntedhill.com
+# jackandjillshauntedhill.com
+
+Additional Domains:
+
+- http://haunted-hill.com

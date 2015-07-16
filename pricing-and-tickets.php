@@ -62,8 +62,6 @@
 
 <?php include "include-contact-form.php"; ?>
 
-                    </aside>
-                    <aside>
                         <h2>Connect</h2>
 
 <?php include "include-social-widgets.php"; ?>

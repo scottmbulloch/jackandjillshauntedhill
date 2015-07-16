@@ -52,17 +52,17 @@
                 <div class="column1">
                     <article>
                         <header>
-                            <h1>New Location for Jack and Jill's Haunted Hill in 2015!</h1>
-                            <p>Updated on <time>July 15, 2015</time></p>
+                            <h1>Jack and Jill went up the Hill to fetch a pale of water...</h1>
+                            <p>Updated on <time>December 22, 2014</time></p>
                         </header>
                         <section>
-                            <p>
-                              We will be back this year with all new haunt at an all new location. Check back for updates.
-                            </p>
-                            <p>
-                              3401 W Greenway Rd<br>
-                              Phoenix, AZ 85053
-                            </p>
+                            <p>The last 6 years, the search of the abandoned mine has continued with your help. This past November, law enforcement closed the mine shaft saying "all leads have run dry".</p>
+                            <p>Days ago, hikers in the Arizona desert came across human remains that police are saying are "very similar to the devastating Jack and Jill case file".</p>
+                            <p>Investigators were lead to a farm house, that state records say, belong to the Bailey family. Aerial shots of the farm show a well, just like the one Jack and Jill were said to have been searching for, just outside the Bailey family home.</p>
+                            <p>A NEW case has been opened and we are asking for YOUR help to search the farm that many have nicknamed "the House of Screams"!</p>
+                            <p>THIS SEASON... come search an ENTIRELY NEW HOUSE in hopes of keeping the search for Jack and Jill ALIVE!</p>
+                            <p>See some of your FAVORITE rooms of the past RE IMAGINED as you search the Clyde Bailey families home and enter into the Killer's Nightmare...</p>
+                            <p>...Hopefully you'll be lucky enough to make it out... ALIVE!!!</p>
                         </section>
                         <footer>
                             <p>&nbsp;</p>

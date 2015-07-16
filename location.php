@@ -44,10 +44,17 @@
                     <article>
                         <header>
                             <h1>Location</h1>
-                            <p>Updated on <time>December 22, 2014</time></p>
+                            <p>Updated on <time>July 15, 2015</time></p>
                         </header>
                         <section>
-                            <p>Check back next year for updates on the 2015 season.</p>
+                            <p>
+                              3401 W Greenway Rd<br>
+                              Phoenix, AZ 85053
+                            </p>
+                            <iframe
+                              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1661.1381759940691!2d-112.13218559206544!3d33.624075876479985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b6eb7fadb2aed%3A0x362c3bb8f248251c!2s3401+W+Greenway+Rd%2C+Phoenix%2C+AZ+85053!5e0!3m2!1sen!2sus!4v1437021050404"
+                              width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+                            </iframe>
                         </section>
                         <footer>
                             <p>&nbsp;</p>
@@ -62,8 +69,6 @@
 
 <?php include "include-contact-form.php"; ?>
 
-                    </aside>
-                    <aside>
                         <h2>Connect</h2>
 
 <?php include "include-social-widgets.php"; ?>
